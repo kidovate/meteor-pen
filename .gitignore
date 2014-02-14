@@ -1,1 +1,18 @@
-.build*
+# Created by http://www.gitignore.io
+
+### Linux ###
+*~
+
+
+### vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
+### Meteor ###
+.meteor/local
+.meteor/meteorite
